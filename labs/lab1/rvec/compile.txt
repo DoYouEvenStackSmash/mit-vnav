@@ -1,0 +1,1 @@
+g++ -std=c++11 -Wall -pedantic -o random_vector main.cpp random_vector.cpp
